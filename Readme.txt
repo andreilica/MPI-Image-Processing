@@ -28,10 +28,3 @@ de pixeli sa puna ceea ce primeste de la celelalte procese, recompunand astfel i
 pentru aplicarea urmatorului filtru
 	- se repeta pasii anteriori pana au fost aplicate toate filtrele
 	- dupa ce s-au epuizat toate filtrele, root scrie in fisierul de output ultima imagine intermediara de output recompusa
-
-=========
-CONCLUZII
-=========
-
-Consider ca a fost o tema din care chiar am avut multe de invatat, o tema care m-a ajutat sa inteleg mai bine cum functioneaza 
-paralelizarea cat mai eficienta a unui algoritm secvential. Chiar mi-a facut placere sa implementez acesti algoritmi! :) 
